@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Özgürhan Polat
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Java Spring, Spring Boot, MySQL.
+- 🌱 I’m currently learning Java Spring, Spring Boot, MySQL , React and Next.js.
 
 
 <!---
