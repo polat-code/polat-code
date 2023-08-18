@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Özgürhan Polat
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Java Spring, Spring Boot, MySQL , React and Next.js.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
