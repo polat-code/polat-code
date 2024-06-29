@@ -2,6 +2,9 @@
 - 👀 I’m interested in Web Development.
 - I am developing <a href="https://www.iytechli.com/">iytechli</a>
 
+<a href="https://www.youtube.com/watch?v=-gtLyaYgsGM">İytechli Konsept Proje Video Linki</a>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
