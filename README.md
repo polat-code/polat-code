@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Özgürhan Polat
 - 👀 I’m interested in Web Development.
 - I am developing <a href="https://www.iytechli.com/">iytechli</a>
+- İytechli Konsept Proje <a href="https://www.youtube.com/watch?v=-gtLyaYgsGM"> Video Linki</a>
 
-<a href="https://www.youtube.com/watch?v=-gtLyaYgsGM">İytechli Konsept Proje Video Linki</a>
 
 
 
