@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Özgürhan Polat
 - 👀 I’m interested in Web Development.
-- I am developing <a href="https://iytechli.com">iytechli Version 2</a>
-- İytechli Version 1 <a href="https://www.youtube.com/watch?v=-gtLyaYgsGM"> Video Linki</a>
-- I am developing  <a href="https://clinic-landing-page-ten.vercel.app">Clinic Landing Page</a>
+- İytechli Version 1 <a href="https://www.youtube.com/watch?v=-gtLyaYgsGM"> Video Link</a>
+- I developed  <a href="https://clinic-landing-page-ten.vercel.app">Clinic Landing Page</a>
+- I developed  <a href="https://www.teknolojihackathon.com.tr">Teknoloji Hackathonu</a>
 
 
 
